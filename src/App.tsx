@@ -53,7 +53,7 @@ function App() {
                 </div>
                 <div className="buttons-container flex gap-60 justify-center items-center text-xl">
                     <a
-                        href="twitter.com/intent/tweet"
+                        href={`https://twitter.com/intent/tweet?text=${quote.quote}`}
                         id="tweet-quote"
                         onClick={handleTweetClick}
                         className="text-center font-bold text-white text-3xl bg-red-500 hover:bg-red-900 px-2 py-2 rounded"
