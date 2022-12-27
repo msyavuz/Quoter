@@ -32,7 +32,7 @@ function App() {
     return (
         <div className="App h-screen flex items-center justify-center flex-col bg-orange-700 overflow-hidden">
             <div
-                className="flex flex-col flex-wrap items-center justify-center gap-16 bg-white rounded p-10"
+                className="sm:max-w-7xl flex flex-col flex-wrap items-center justify-center gap-16 bg-white rounded p-10"
                 data-testid="quote-box"
                 id="quote-box"
             >
