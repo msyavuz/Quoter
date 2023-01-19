@@ -5,3 +5,5 @@ A project in the scope of a free code camp challange i am working on to learn Te
 If you think the code is not following best practices please let me know, i am still learning.
 
 [Live Version](https://msyavuz.github.io/Quoter/)
+
+![screenshot](https://github.com/msyavuz/Quoter/blob/master/assets/Screenshot.png?raw=true)
