@@ -6,4 +6,4 @@ If you think the code is not following best practices please let me know, i am s
 
 [Live Version](https://msyavuz.github.io/Quoter/)
 
-![screenshot](https://github.com/msyavuz/Quoter/blob/master/assets/Screenshot.png?raw=true)
+![screenshot](https://github.com/msyavuz/Quoter/blob/master/assets/Screenshot.webp?raw=true)
